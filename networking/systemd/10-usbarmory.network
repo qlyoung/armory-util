@@ -1,0 +1,9 @@
+[Match]
+Name=usbarmory0
+MACAddress=1a:55:89:a2:69:42
+
+[Network]
+Address=10.0.0.2/24
+Gateway=0.0.0.0
+IPForward=ipv4
+IPMasquerade=yes

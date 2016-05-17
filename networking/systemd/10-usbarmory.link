@@ -1,0 +1,5 @@
+[Match]
+MACAddress=1a:55:89:a2:69:42
+
+[Link]
+Name=usbarmory0
