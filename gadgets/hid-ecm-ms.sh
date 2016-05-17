@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 #
 # Sets up a composite USB device providing Ethernet over USB, HID, and
 # Mass Storage capabilities. Code from various unlicensed sources.
